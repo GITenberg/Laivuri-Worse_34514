@@ -1,0 +1,38 @@
+_repo: Laivuri-Worse_34514
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Löfgren, Elisabeth
+    alias: Lofgren, Elisabeth
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '24820'
+    url: http://www.gutenberg.org/2009/agents/24820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kielland, Alexander Lange
+    aliases:
+    - Kielland, Aleksander L.
+    - Kjelland, Alexander Lange
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '1776'
+    url: http://www.gutenberg.org/2009/agents/1776
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Kielland
+description: ''
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34514'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+title: Laivuri Worse
+url: http://www.gutenberg.org/ebooks/34514
